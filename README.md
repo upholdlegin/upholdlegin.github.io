@@ -1,5 +1,5 @@
 
-https://finbold.com/app/uploads/2021/10/uphold-review.png
+
 
 <h1>Róbinhood Login - Log In to My Account</h1>
 
