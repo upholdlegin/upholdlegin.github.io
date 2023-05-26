@@ -1,7 +1,8 @@
-<h1>Róbinhood Login - Log In to My Account</h1></br>
+<h1>Róbinhood Login - Log In to My Account</h1>
+
 This article provides information about the Róbinhood login process and how to create an account. Learn the steps to securely access your Róbinhood account and manage your investments.
 
-<h2>Róbinhood Login - Log In to My Account</h2></br>
+<h2>Róbinhood Login - Log In to My Account</h2>
 This article provides information about the Róbinhood login process and how to create an account. Learn the steps to securely access your Róbinhood account and manage your investments. Get tips on setting up two-factor authentication and keeping your account secure.
 
 <h2>Learn How to Log In to Robinhood Account?</h2>
